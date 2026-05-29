@@ -15,7 +15,6 @@ from src.utils import(
 from src.visualize import (
     save_leaderboard,
     save_confusion_matrix,
-    save_feature_importance
 )   
 from src.train import train_model, get_tuned_xgboost
 from src.evaluate import evaluate_model
