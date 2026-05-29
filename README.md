@@ -158,7 +158,7 @@ Adult-income/
 └── README.md
 ```
 ## Project Structure
-<img src="reports\Screenshot 2026-05-30 011022.png" alt="Structure" width="520" />
+<img src="reports\Screenshot 2026-05-30 011022.png" alt="Structure" width="600" />
 
 ---
 
