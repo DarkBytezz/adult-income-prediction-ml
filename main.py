@@ -136,8 +136,6 @@ if not os.path.exists("models/label_encoder.pkl"):
 
 
 
-
-
 trained_models = {}
 
 for model_name, model in models.items():

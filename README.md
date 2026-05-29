@@ -143,6 +143,8 @@ Why?
 
 ## 📂 Project Structure
 
+
+
 ```text
 Adult-income/
 │
@@ -155,6 +157,8 @@ Adult-income/
 ├── requirements.txt
 └── README.md
 ```
+## Project Structure
+<img src="reports\Screenshot 2026-05-30 011022.png" alt="Structure" width="520" />
 
 ---
 
