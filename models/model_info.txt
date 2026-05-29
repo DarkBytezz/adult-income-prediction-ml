@@ -1,0 +1,5 @@
+Dataset: Adult Income
+Algorithm: XGBoost
+Accuracy: 87.77%
+F1 Score: 0.7216
+Training Date: 2026-05-29
